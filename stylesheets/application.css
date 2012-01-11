@@ -138,3 +138,8 @@ div.splitcontentleft ol li, div.splitcontentleft ul li, div.wiki ol li, div.wiki
 div.wiki ul.toc li { padding: 0; }
 ol li ol li { list-style-type: lower-alpha; }
 ol li ol li ol li { list-style-type: lower-roman; }
+
+tr.private td.subject {
+padding-left: 50px;
+background: url('private.png') 0 5px no-repeat;
+}
